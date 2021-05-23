@@ -1,12 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Allan.
 
-</a>
-<a href="https://twitter.com/lalan_KE">
-  <img align="left" alt="Allan Koech | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/koech2205/">
-  <img align="left" alt="Allan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Twitter: Allan Koech](https://img.shields.io/twitter/follow/lalan_ke?style=social)](https://twitter.com/lalan_KE)
+[![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koech2205/)](https://www.linkedin.com/in/koech2205/)
+[![GitHub Allan Koech](https://img.shields.io/github/followers/lalan-ke?label=follow&style=social)](https://github.com/lalan-ke)
 
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
