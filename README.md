@@ -6,11 +6,17 @@
 
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=750w" width="500" height=width/1.5625 />
 
+
+<br/>
 Fun, jovial and addicted programmer 😄. I'm a final year Biomedical Engineering Student from Nairobi, Kenya with great interests in C/C++, Qt, Linux, and Embedded Linux. I build both user interfaces (UI) for desktops, mobile and embedded systems, and back-end services. I love Linux, so, I also build custom Linux Operating systems using Buildroot/Yocto Projects for specialized projects.
 
-I'm also the [CInO at THE AFECS Limited](www.afecs.co.ke). where we build and engineer some amazing stuff. Technology is in our DNA!
+<br/>
+<br/>
 
+I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS Limited</a> where we build and engineer some amazing stuff. Technology is in our DNA!
 
+<br/>
+<br/>
 <br/>
 
 ## My Stats 😄
