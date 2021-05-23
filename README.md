@@ -42,7 +42,7 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 - Qt 5.15, Qt Quick & Qt Creator
 - Git
 - PostgreSQL 11+
-- Arduino
+- Arduino & Arduino IDE
 - KiCAD
 - Inkscape
 - VsCode
