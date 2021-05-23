@@ -30,7 +30,7 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Embedded Systems Projects
 - 💬 Ask me about C/C++, Qt, and Embedded Linux
-- 📫 How to reach me: Check my social network cards
+- 📫 How to reach me: <a href="https://twitter.com/lalan_KE" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/koech2205/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My music playlist rocks!
 
@@ -39,7 +39,7 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 
 - Ubuntu 20.04
 - C++11 and C++17
-- Qt 5.15 & Qt Creator
+- Qt 5.15, Qt Quick & Qt Creator
 - Git
 - PostgreSQL 11+
 - Arduino
@@ -47,5 +47,8 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 - Inkscape
 - VsCode
 - Python 3.7+
+- React Native
+- Javascript
+- Bash
 
 
