@@ -53,4 +53,4 @@ I'm also the [CInO at THE AFECS Limited](www.afecs.co.ke). where we build and en
 - VsCode
 - Python 3.7+
 
-For more information please see the [architecture](https://docs.gitlab.com/ee/development/architecture.html) and [requirements](https://docs.gitlab.com/ee/install/requirements.html) documentation.
+
