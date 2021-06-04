@@ -37,18 +37,21 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 
 ## My Software stack
 
-- Ubuntu 20.04
-- C++11 and C++17
-- Qt 5.15, Qt Quick & Qt Creator
-- Git
-- PostgreSQL 11+
-- Arduino & Arduino IDE
-- KiCAD
-- Inkscape
-- VsCode
-- Python 3.7+
-- React Native
-- Javascript
-- Bash
+| - | Logo | Name | Description |
+| - |------|------|-------------|
+| 1. | <img src="assets/ubuntu.png" width="25px"> | Ubuntu 20.04 | OS for daily use and programming |
+| 2. | <img src="assets/cpp.png" width="25px"> | C++11 and C++17 | Software development language |
+| 3. | <img src="assets/qt.png" width="25px"> | Qt 5.15, Qt Quick & Qt Creator | Desktop, mobile & embedded UI design and programming |
+| 4. | <img src="assets/git.png" width="25px"> | Git | Source Code Version Control |
+| 5. | <img src="assets/postgresql.png" width="25px"> | PostgreSQL 11+ | Database for structured data |
+| 6. | <img src="assets/arduino.png" width="25px"> | Arduino & Arduino IDE | Hardware tinkering board |
+| 7. | <img src="assets/kicad.png" width="25px"> | KiCAD | PCB & Circuit design |
+| 8. | <img src="assets/inkscape.png" width="25px"> | Inkscape | Vector Graphic Designing |
+| 9. | <img src="assets/vscode.png" width="25px"> | VS-Code | Code Editor for JS, Py, Bash |
+| 10. | <img src="assets/python.png" width="25px"> | Python 3.7+ | Desktop & Web Scripting |
+| 11. | <img src="assets/react.png" width="25px"> | React Native | Mobile App Development |
+| 12. | <img src="assets/js.png" width="30px"> | Javascript | Web & Mobile Scripting |
+| 13. | <img src="assets/bash.png" width="25px"> | Bash | Linux scripting |
+
 
 
