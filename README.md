@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Allan.
 
-[![Twitter: Allan Koech](https://img.shields.io/twitter/follow/lalan_ke?style=social)](https://twitter.com/lalan_KE)
-[![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koech2205/)](https://www.linkedin.com/in/koech2205/)
+[![Twitter: Allan Koech](https://img.shields.io/twitter/follow/lalan_ke?style=social)](https://twitter.com/allankkoech)
+[![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koech2205/)](https://www.linkedin.com/in/allankoech/)
 [![GitHub Allan Koech](https://img.shields.io/github/followers/lalan-ke?label=follow&style=social)](https://github.com/lalan-ke)
 
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=750w" width="500" height=width/1.5625 />
