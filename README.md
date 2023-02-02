@@ -30,7 +30,7 @@ I'm also the CInO at <a href="https://www.afecs.co.ke" target="_blank">THE AFECS
 - 🌱 I’m currently working on ReactJs & React Native
 - 👯 I’m looking to collaborate on Embedded Systems Projects
 - 💬 Ask me about C/C++, Qt, and Embedded Linux
-- 📫 How to reach me: <a href="https://twitter.com/allankkoech" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/allankkoech/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="https://twitter.com/allankkoech" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/allankoech/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm open to work, just reach out!
 
