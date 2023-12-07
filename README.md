@@ -44,7 +44,12 @@ A warehouse point-of-sale application for managing inventory and keeping track o
 
 <image src="https://user-images.githubusercontent.com/44490960/104890986-5f552180-5981-11eb-8578-43fc615dbf92.png" alt="image"/>
 
-### Smart Home Dashboard UI
-Smart IoT Dashboard for home automation project. Full project code [here](https://github.com/allankkoech/engineering-festival-iot-ui/tree/master).
+### - Smart Home Dashboard UI
+Smart IoT Dashboard for home automation project. Full project code [here](https://github.com/allankkoech/engineering-festival-iot-ui/tree/master). Skills Python | Qt | QML.
 
 ![iot-engfest](https://user-images.githubusercontent.com/44490960/89357733-0c84f780-d6ca-11ea-9282-9698f8503ae6.png)
+
+### - Shopping App
+A minimalist shopping app in Qt | QML | C++. Full project code found [here](https://github.com/allankkoech/ShoppingAppQML/tree/master).
+
+![shopping-app](https://github.com/allankkoech/ShoppingAppQML/blob/a4678a423c0efd20ea624ac67c1bce1ca9e19cb1/screenshots/snip.jpg)
