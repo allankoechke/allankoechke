@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Allan Koech
 
-Lets Connect  [![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankkoech?style=social)](https://twitter.com/allankkoech)
+[![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankkoech?style=social)](https://twitter.com/allankkoech)
 [![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankoech/)](https://www.linkedin.com/in/allankoech/)
 [![GitHub Allan Koech](https://img.shields.io/github/followers/allankkoech?label=follow&style=social)](https://github.com/allankkoech)
 
