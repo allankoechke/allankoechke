@@ -8,6 +8,8 @@
 
 I'm not just a techie but a storyteller, weaving code into compelling narratives that bridge the gap between ideas and reality. My expertise spans C/C++ and Python to UI/UX design using Qt, and I relish the opportunity to transform complex concepts into user-friendly experiences.
 
+Author of the [CodeArt Blog](https://www.codeart.co.ke).
+
 ## 🔧 My Tech Stack
 
 - **Platforms**: Desktop/Embedded/Mobile App Development
