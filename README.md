@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Allan Koech
 
-[![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankkoech?style=social)](https://twitter.com/allankkoech)
+Lets Connect  [![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankkoech?style=social)](https://twitter.com/allankkoech)
 [![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankoech/)](https://www.linkedin.com/in/allankoech/)
 [![GitHub Allan Koech](https://img.shields.io/github/followers/allankkoech?label=follow&style=social)](https://github.com/allankkoech)
 
@@ -27,20 +27,7 @@ I'm not just a techie but a storyteller, weaving code into compelling narratives
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allankkoech&show_icons=true&count_private=true)
 
 
-## 📚 Education
-
-- **MSc. Computer Science**
-- **BSc. Biomedical Engineering**
-
-
-## 📧 Let's Connect
-
-- [Twitter](https://twitter.com/allankkoech)
-- [LinkedIn](https://www.linkedin.com/in/allankoech/)
-
 ## Projects
-Project snippets
-
 ### - Point of Sale Application
 A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App. Project link [here](https://github.com/allankkoech/SalamaPOS).
 
