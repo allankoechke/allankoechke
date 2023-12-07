@@ -6,15 +6,17 @@
 
 🚀 Passionate programmer and technology enthusiast, turning innovative ideas into reality!
 
-Software engineer by profession and an MSc. in Computer Science.
+I'm not just a techie but a storyteller, weaving code into compelling narratives that bridge the gap between ideas and reality. My expertise spans C/C++ and Python to UI/UX design using Qt, and I relish the opportunity to transform complex concepts into user-friendly experiences.
 
 ## 🔧 My Tech Stack
 
-- **Languages**: C, C++, Bash, Python, Javascript, Dart, QML
+- **Platforms**: Desktop/Embedded/Mobile App Development
+- **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
+- **Languages**: C, C++, Bash, Python, Javascript
 - **UI/UX Design**: Qt Framework, QML, Figma
 - **Operating Systems**: Linux, Embedded Linux, Windows
 - **Version Control**: Git
-- **Databases**: PostgreSQL/MongoDB SQLite
+- **Databases**: PostgreSQL | MongoDB | SQLite
 - **Hardware**: Arduino, ESP32, Raspberry Pi
 - **Tools**: KiCAD, Inkscape, VS-Code, Qt Creator IDE
 - **Web Development**: ReactJs, React Native
@@ -50,6 +52,9 @@ Smart IoT Dashboard for home automation project. Full project code [here](https:
 ![iot-engfest](https://user-images.githubusercontent.com/44490960/89357733-0c84f780-d6ca-11ea-9282-9698f8503ae6.png)
 
 ### - Shopping App
-A minimalist shopping app in Qt | QML | C++. Full project code found [here](https://github.com/allankkoech/ShoppingAppQML/tree/master).
+A minimalist shopping app in Qt | QML | C++. Full project code found [here](https://github.com/allankkoech/ShoppingAppQML/tree/master). To watch the app in use, [check here](https://x.com/allankkoech/status/1731091111555309675?s=20).
 
 ![shopping-app](https://github.com/allankkoech/ShoppingAppQML/blob/a4678a423c0efd20ea624ac67c1bce1ca9e19cb1/screenshots/snip.jpg)
+
+## Like what you see?
+Let's connect and work together!
