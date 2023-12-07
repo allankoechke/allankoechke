@@ -35,3 +35,12 @@ Software engineer by profession and an MSc. in Computer Science.
 
 - [Twitter](https://twitter.com/allankkoech)
 - [LinkedIn](https://www.linkedin.com/in/allankoech/)
+
+## Projects
+Project snippets
+
+### Point of Sale Application
+A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App
+<image src="https://user-images.githubusercontent.com/44490960/104890986-5f552180-5981-11eb-8578-43fc615dbf92.png" alt="image"/>
+
+### Smart Home Dashboard UI
