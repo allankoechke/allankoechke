@@ -39,8 +39,12 @@ Software engineer by profession and an MSc. in Computer Science.
 ## Projects
 Project snippets
 
-### Point of Sale Application
-A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App
+### - Point of Sale Application
+A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App. Project link [here](https://github.com/allankkoech/SalamaPOS).
+
 <image src="https://user-images.githubusercontent.com/44490960/104890986-5f552180-5981-11eb-8578-43fc615dbf92.png" alt="image"/>
 
 ### Smart Home Dashboard UI
+Smart IoT Dashboard for home automation project. Full project code [here](https://github.com/allankkoech/engineering-festival-iot-ui/tree/master).
+
+![iot-engfest](https://user-images.githubusercontent.com/44490960/89357733-0c84f780-d6ca-11ea-9282-9698f8503ae6.png)
