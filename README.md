@@ -30,6 +30,15 @@ Author of the [CodeArt Blog](https://www.codeart.co.ke).
 
 
 ## Projects
+### - Medical Ventillator UI
+C++ | Qt | QML | Qt Creator | SQL | Desktop App  
+
+![](./assets/tibavent-dark.png) 
+
+![](./assets/tibavent-light.png) 
+
+![](./assets/tibavent-d.gif)
+
 ### - Point of Sale Application
 A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App. Project link [here](https://github.com/allankkoech/SalamaPOS).
 
