@@ -32,7 +32,9 @@ Author of the [CodeArt Blog](https://www.codeart.co.ke).
 ## Projects
 ### Smart Home Dashboard
 Home automation dashboard UI, full project [here](https://github.com/allankoechke/SmartHomeDashboardNew/).
+
 ![](https://github.com/allankoechke/SmartHomeDashboardNew/blob/1274e0045705207ce7e8b5fec9a8a28a4e32a968/screenshot.png)
+
 ![](https://github.com/allankoechke/SmartHomeDashboardNew/blob/1274e0045705207ce7e8b5fec9a8a28a4e32a968/screenshot.gif)
 
 ### - Medical Ventillator UI
@@ -60,4 +62,4 @@ A minimalist shopping app in Qt | QML | C++. Full project code found [here](http
 ![shopping-app](https://github.com/allankkoech/ShoppingAppQML/blob/a4678a423c0efd20ea624ac67c1bce1ca9e19cb1/screenshots/snip.jpg)
 
 ## Like what you see?
-Let's connect and work together!
+Let's connect and work together! Find [here](https://linktr.ee/allankoech) all my handles.
