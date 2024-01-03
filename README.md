@@ -2,7 +2,7 @@
 
 [![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankkoech?style=social)](https://twitter.com/allankoechke)
 [![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankoech/)](https://www.linkedin.com/in/allankoech/)
-[![GitHub Allan Koech](https://img.shields.io/github/followers/allankkoech?label=follow&style=social)](https://github.com/allankoechke)
+[![GitHub Allan Koech](https://img.shields.io/github/followers/allankoechke?label=follow&style=social)](https://github.com/allankoechke)
 
 🚀 Passionate programmer and technology enthusiast, turning innovative ideas into reality!
 
