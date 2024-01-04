@@ -10,6 +10,8 @@ I'm not just a techie but a storyteller, weaving code into compelling narratives
 
 Author of the [CodeArt Blog](https://www.codeart.co.ke).
 
+<a href="https://www.buymeacoffee.com/codeartke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## 🔧 My Tech Stack
 
 - **Platforms**: Desktop/Embedded/Mobile App Development
@@ -63,3 +65,6 @@ A minimalist shopping app in Qt | QML | C++. Full project code found [here](http
 
 ## Like what you see?
 Let's connect and work together! Find [here](https://linktr.ee/allankoech) all my handles.
+
+## Support my work
+<a href="https://www.buymeacoffee.com/codeartke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
