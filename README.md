@@ -10,6 +10,8 @@ I'm not just a techie but a storyteller, weaving code into compelling narratives
 
 Author of the [CodeArt Blog](https://www.codeart.co.ke).
 
+<a href="https://www.codeart.co.ke" target="_blank"><img src="https://codeart.co.ke/content/images/2025/04/codeart-dark-1.png" alt="Codeart Blog" height="41" width="174"></a>
+
 <a href="https://www.buymeacoffee.com/codeartke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## 🔧 My Tech Stack
@@ -32,6 +34,11 @@ Author of the [CodeArt Blog](https://www.codeart.co.ke).
 
 
 ## Projects
+### Mantis: Open-source, lightweight and fast backend in C++
+Currently building this, a fast, portable backend in C++. Just like your favourite SupaBase or FireBase, but in a single binary of about 10mbs with auto API generation from database schema, file serving, row-level access rules, authentication and much more! Check it out here: [Mantis GitHub Repo](https://github.com/allankoechke/mantis)
+
+![](https://github.com/allankoechke/mantis/raw/master/assets/mantis-cover.png)
+
 ### Smart Home Dashboard
 Home automation dashboard UI, full project [here](https://github.com/allankoechke/SmartHomeDashboardNew/).
 
