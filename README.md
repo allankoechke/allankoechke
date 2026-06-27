@@ -33,7 +33,7 @@ I build software from the metal up — from medical-grade embedded firmware to c
 ### MantisBase — fast, portable Backend-as-a-Service in C++20
 A single ~10MB binary that delivers a full backend: auto-generated REST APIs from your database schema, file serving, row-level access rules, JWT authentication, and real-time Server-Sent Events. Like Supabase or Firebase, but self-hostable and dependency-light. → **[github.com/allankoechke/mantisbase](https://github.com/allankoechke/mantisbase)** · [mantisbase.com](https://mantisbase.com)
 
-![MantisBase admin dashboard and auto-generated REST API demo](./assets/mantisbase-demo.gif)
+![MantisBase admin dashboard and auto-generated REST API demo](./assets/mantisbase-admin.png)
 
 ### TIBAVENT — Medical Ventilator UI (C++ · Qt · QML · Embedded Linux)
 Clinical user interface and real-time embedded OS for Kenya's first locally built mechanical ventilator. Nationally recognised.
