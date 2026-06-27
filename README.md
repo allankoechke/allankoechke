@@ -1,77 +1,49 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Allan Koech
+# Hi, I'm Allan Koech 👋
 
 [![Twitter: Allan Koech](https://img.shields.io/twitter/follow/allankoechke?style=social)](https://twitter.com/allankoechke)
-[![Linkedin: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankoech/)](https://www.linkedin.com/in/allankoech/)
+[![LinkedIn: Allan Koech](https://img.shields.io/badge/-Allan%20Koech-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allankoech/)
 [![GitHub Allan Koech](https://img.shields.io/github/followers/allankoechke?label=follow&style=social)](https://github.com/allankoechke)
 
-🚀 Passionate programmer and technology enthusiast, turning innovative ideas into reality!
+**Software & Systems Engineer · Developer Advocate @ Autodesk.**
 
-I'm not just a techie but a storyteller, weaving code into compelling narratives that bridge the gap between ideas and reality. My expertise spans C/C++ and Python to UI/UX design using Qt, and I relish the opportunity to transform complex concepts into user-friendly experiences.
+I build software from the metal up — from medical-grade embedded firmware to cloud-scale developer tooling and AI integrations. 6+ years across **C, C++, Rust, Python and JavaScript**, with a focus on backend systems, developer experience, and AI-native tooling.
 
-Author of the [CodeArt Blog](https://www.codeart.co.ke).
+- 🛠️ Creator of **[MantisBase](https://github.com/allankoechke/mantisbase)** — an open-source C++20 Backend-as-a-Service in a single portable binary (auto-generated REST APIs, JWT auth, real-time SSE, admin dashboard).
+- ☁️ At **Autodesk**, I build C++ plugins & SDKs for 3ds Max, automate workflows on **Autodesk Platform Services (APS)**, and build **MCP servers** that connect services to LLMs.
+- 🎤 Conference speaker (7+ talks) on plugin development, cloud automation, and AI-assisted development.
+- ⚡ Led the software for **TIBAVENT**, Kenya's first locally built ventilator — UN Person of the Year 2020 & Head of State Commendation.
+- ✍️ Author of the **[CodeArt Blog](https://www.codeart.co.ke)**.
 
-<a href="https://www.codeart.co.ke" target="_blank"><img src="https://codeart.co.ke/content/images/2025/04/codeart-dark-1.png" alt="Codeart Blog" height="41" width="174"></a>
+## 🔧 Tech Stack
 
-<a href="https://www.buymeacoffee.com/codeartke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## 🔧 My Tech Stack
-
-- **Platforms**: Desktop/Embedded/Mobile App Development
-- **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
-- **Languages**: C, C++, Bash, Python, Javascript
-- **UI/UX Design**: Qt Framework, QML, Figma
-- **Operating Systems**: Linux, Embedded Linux, Windows
-- **Version Control**: Git
-- **Databases**: PostgreSQL | MongoDB | SQLite
-- **Hardware**: Arduino, ESP32, Raspberry Pi
-- **Tools**: KiCAD, Inkscape, VS-Code, Qt Creator IDE
-- **Web Development**: ReactJs, React Native
-- **3D Modeling**: Autodesk 3ds Max, MAXScript
+- **Languages**: C, C++ (C++20), Rust, Python, JavaScript, Bash, MAXScript
+- **Backend & Cloud**: REST API design, JWT, Server-Sent Events (SSE), PostgreSQL, SQLite, MongoDB, Docker, CMake, CI/CD, GitHub Actions, Linux
+- **AI & Tooling**: LLMs, Model Context Protocol (MCP), RAG, agentic workflows
+- **Cloud Platforms**: Autodesk Platform Services (APS), Design Automation
+- **UI / Desktop / Embedded**: Qt (C++/Python, Widgets, QML), Slint, Embedded Linux, Arduino, ESP32, Raspberry Pi
+- **3D / Graphics**: Autodesk 3ds Max, MAXScript, Fusion 360, Inventor
+- **Web**: React, React Native
 
 ## 📊 GitHub Stats
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allankoechke&show_icons=true&count_private=true)
 
+## 🚀 Featured Projects
 
-## Projects
-### Mantis: Open-source, lightweight and fast backend in C++
-Currently building this, a fast, portable backend in C++. Just like your favourite SupaBase or FireBase, but in a single binary of about 10mbs with auto API generation from database schema, file serving, row-level access rules, authentication and much more! Check it out here: [Mantis GitHub Repo](https://github.com/allankoechke/mantis)
+### MantisBase — fast, portable Backend-as-a-Service in C++20
+A single ~10MB binary that delivers a full backend: auto-generated REST APIs from your database schema, file serving, row-level access rules, JWT authentication, and real-time Server-Sent Events. Like Supabase or Firebase, but self-hostable and dependency-light. → **[github.com/allankoechke/mantisbase](https://github.com/allankoechke/mantisbase)** · [mantisbase.com](https://mantisbase.com)
 
-![](https://github.com/allankoechke/mantis/raw/master/assets/mantis-cover.png)
+### TIBAVENT — Medical Ventilator UI (C++ · Qt · QML · Embedded Linux)
+Clinical user interface and real-time embedded OS for Kenya's first locally built mechanical ventilator. Nationally recognised.
 
-### Smart Home Dashboard
-Home automation dashboard UI, full project [here](https://github.com/allankoechke/SmartHomeDashboardNew/).
+### SmartHomeDashboard — Home automation UI (Qt 6 / QML)
+A clean, modern dashboard for IoT home automation. → [repo](https://github.com/allankoechke/SmartHomeDashboardNew/)
 
-![](https://github.com/allankoechke/SmartHomeDashboardNew/blob/1274e0045705207ce7e8b5fec9a8a28a4e32a968/screenshot.png)
+### SalamaPOS — Point-of-Sale (Qt · QML · PostgreSQL)
+Cross-platform (Windows/Linux/macOS) inventory and sales management. → [repo](https://github.com/allankoechke/salama-pos)
 
-![](https://github.com/allankoechke/SmartHomeDashboardNew/blob/1274e0045705207ce7e8b5fec9a8a28a4e32a968/screenshot.gif)
+## 🤝 Let's connect
 
-### - Medical Ventillator UI
-C++ | Qt | QML | Qt Creator | SQL | Desktop App  
+All my handles: [linktr.ee/allankoech](https://linktr.ee/allankoech)
 
-![](./assets/tibavent-dark.png) 
-
-![](./assets/tibavent-light.png) 
-
-![](./assets/tibavent-d.gif)
-
-### - Point of Sale Application
-A warehouse point-of-sale application for managing inventory and keeping track of sales figures. Skills: Qt | QML | Qt Creator | PostgreSQL | Desktop App. Project link [here](https://github.com/allankkoech/SalamaPOS).
-
-<image src="https://user-images.githubusercontent.com/44490960/104890986-5f552180-5981-11eb-8578-43fc615dbf92.png" alt="image"/>
-
-### - Smart Home Dashboard UI
-Smart IoT Dashboard for home automation project. Full project code [here](https://github.com/allankkoech/engineering-festival-iot-ui/tree/master). Skills Python | Qt | QML.
-
-![iot-engfest](https://user-images.githubusercontent.com/44490960/89357733-0c84f780-d6ca-11ea-9282-9698f8503ae6.png)
-
-### - Shopping App
-A minimalist shopping app in Qt | QML | C++. Full project code found [here](https://github.com/allankkoech/ShoppingAppQML/tree/master). To watch the app in use, [check here](https://x.com/allankkoech/status/1731091111555309675?s=20).
-
-![shopping-app](https://github.com/allankkoech/ShoppingAppQML/blob/a4678a423c0efd20ea624ac67c1bce1ca9e19cb1/screenshots/snip.jpg)
-
-## Like what you see?
-Let's connect and work together! Find [here](https://linktr.ee/allankoech) all my handles.
-
-## Support my work
 <a href="https://www.buymeacoffee.com/codeartke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
